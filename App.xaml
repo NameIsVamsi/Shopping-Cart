@@ -1,0 +1,9 @@
+﻿<Application x:Class="ShoppingApp_DS_VK_JMK_SNA.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ShoppingApp_DS_VK_JMK_SNA"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
